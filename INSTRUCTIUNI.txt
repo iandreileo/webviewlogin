@@ -1,0 +1,6 @@
+KEYSTORE PATH: key.jks
+KEYSTORE PASSWORD: ForestMania2!
+Key Alias: key0
+KEY PASSWORD: ForestMania2!
+
+BUNDLE MAGAZIN PLAY: app-release-final.aab
